@@ -15,4 +15,4 @@ and a more detailed description on the webpage about my project ["Automated Deci
 In my spare time I am working on open source projects:
 * [Repositorium.ch](https://repositorium.ch) -> [GitHub Organization](https://github.com/Repositorium-ch)
 * Iusable.ai -> [GitHub Organization](https://github.com/iusable)
-* + some repositories on my personal profile (where you currently are)
+* plus some repositories on my personal profile (where you currently are)
